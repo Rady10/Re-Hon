@@ -1,6 +1,6 @@
-# 📚 EBook App - Digital Library
+# 📚 Re-Hon App
 
-A full-stack, cross-platform ebook application built with **Flutter** and **Node.js (Express)**. This project provides a seamless digital reading experience, allowing users to browse, search, and read their favorite books on any device.
+A full-stack, cross-platform ebook application built with **Flutter** and **Node.js (Express)**. This project provides a seamless digital reading experience, allowing users to browse, search, sell and read their favorite books on any device.
 
 ---
 
