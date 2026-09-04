@@ -434,17 +434,6 @@ Re-Hon demonstrates practical experience in:
 
 ---
 
-# 👨‍💻 Developer
-
-**Ahmed Rady**
-
-Flutter Developer
-
-* GitHub: https://github.com/Rady10
-* LinkedIn: https://www.linkedin.com/in/rady10
-
----
-
 # ⭐ Repository
 
 If you find this project useful or interesting, consider giving it a ⭐ on GitHub.
