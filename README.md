@@ -18,12 +18,6 @@ The application combines a modern Flutter frontend with a RESTful backend built 
 
 ---
 
----
-
-## Design
-<img width="1536" height="1024" alt="ChatGPT Image Aug 18, 2026, 04_57_20 PM" src="https://github.com/user-attachments/assets/50576230-184d-448f-b682-0865e850393d" />
----
-
 ## ✨ Features
 
 * 📚 **Browse Books** — Explore available e-books through a clean and intuitive interface.
